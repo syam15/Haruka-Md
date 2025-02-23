@@ -1,14 +1,14 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
-    "footer": "2023 © api.zeeoneofc.my.id",
+    "ownerNumber": ["6287765939693@s.whatsapp.net","6287758017838@s.whatsapp.net"],
+    "ownerName": "syamoff",
+    "instagram" : "https://instagram.com/syamoff_",
+    "gcwa" : "",
+    "botName": "Cartel bot",
+    "footer": "2025 © syamoff.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
-    "BotKey": "your key",
+    "BotKey": "HwSX5Fb5tt3tjK4",
     "OpenAIKey": "your openai key",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_ai_japri": false,
@@ -28,6 +28,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 50
     }
 }
